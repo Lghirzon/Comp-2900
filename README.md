@@ -1,2 +1,3 @@
 # COMP-2900
-Data Structure
+Curso _Data Structure_
+Autor: _Jonh Doe_
